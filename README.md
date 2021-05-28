@@ -24,6 +24,7 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ## Transforms
 
 <!--TRANSFORMS_START-->
+* [ding-dang-do](transforms/ding-dang-do/README.md)
 <!--TRANSFORMS_END-->
 
 ## Contributing
